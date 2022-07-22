@@ -1,4 +1,4 @@
-# HardHat project
+# HardHat project of MetaverseM4ster
 
 Write a contract, test it on a local blockchain, deploy to the network which you choose. For more information go to the official documentation HardHat
 
